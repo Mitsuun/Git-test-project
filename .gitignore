@@ -1,0 +1,9 @@
+# ignore following file extensions:
+*.png
+*.jpg
+*.doc
+*.docx
+*.txt
+
+# ignore whole folder and its contents
+/screen_captures
