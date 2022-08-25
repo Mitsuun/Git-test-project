@@ -1,1 +1,2 @@
-print("I am very familiar with Git, wow yes")
+print("I am very familiar with Git, wow")
+print("This is a new line")
